@@ -1,0 +1,20 @@
+[
+  {
+    "command": ":q",
+    "explanation": "Quits the current window.",
+    "documentation_links": [
+      "https://neovim.io/doc/user/cmdline.html#%3Aquit",
+      "https://neovim.io/doc/user/editing.html#closing-a-window"
+    ]
+  },
+  {
+    "command": ":w",
+    "explanation": "Saves the current file.",
+    "documentation_links": [
+      "https://neovim.io/doc/user/editing.html#%3Awrite",
+      "https://neovim.io/doc/user/cmdline.html#%3Awrite"
+    ]
+  }
+  
+]
+

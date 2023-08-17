@@ -1,0 +1,107 @@
+[
+    {
+        "command": "i_CTRL-@",
+        "explanation": "CTRL-@ insert previously inserted text and stop insert i_CTRL-A CTRL-A insert previously inserted text i_CTRL-C CTRL-C quit",
+        "documentation_links": []
+    },
+    {
+        "command": "i_CTRL-\\_CTRL-G",
+        "explanation": "CTRL-\\ CTRL-G go to Normal mode CTRL-\\ a - z reserved for extensions CTRL-\\ others not used i_CTRL-] CTRL-] trigger",
+        "documentation_links": []
+    },
+    {
+        "command": "i_0_CTRL-D",
+        "explanation": "0 CTRL-D delete all indent in the current line i_^_CTRL-D ^ CTRL-D delete all indent in the current line, restore it in the next line",
+        "documentation_links": []
+    },
+    {
+        "command": "i_<Del>",
+        "explanation": "<Del> delete character under the cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "i_<Left>",
+        "explanation": "<Left> cursor one character left i_<S-Left> <S-Left> cursor one word left i_<C-Left> <C-Left> cursor one word left i_<Right> <Right>",
+        "documentation_links": []
+    },
+    {
+        "command": "i_CTRL-X_CTRL-D",
+        "explanation": "CTRL-X CTRL-D complete defined identifiers i_CTRL-X_CTRL-E CTRL-X CTRL-E scroll up i_CTRL-X_CTRL-F CTRL-X",
+        "documentation_links": []
+    },
+    {
+        "command": "i_CTRL-X_CTRL-U",
+        "explanation": "CTRL-X CTRL-U complete with 'completefunc' i_CTRL-X_CTRL-V CTRL-X CTRL-V complete like in : command line",
+        "documentation_links": []
+    },
+    {
+        "command": "i_CTRL-X_CTRL-Z",
+        "explanation": "CTRL-X CTRL-Z stop completion, keeping the text as-is i_CTRL-X_CTRL-] CTRL-X CTRL-] complete tags i_CTRL-X_s",
+        "documentation_links": []
+    },
+    {
+        "command": "v_aquote",
+        "explanation": "a\" double quoted string v_a' a' single quoted string v_a( a( same as ab v_a) a) same as ab v_a< a< \"a <>\" from '<' to the",
+        "documentation_links": []
+    },
+    {
+        "command": "v_a{",
+        "explanation": "a{ same as aB v_a} a} same as aB v_iquote i\" double quoted string without the quotes v_i' i' single quoted string without the quotes",
+        "documentation_links": []
+    },
+    {
+        "command": "v_i(",
+        "explanation": "i( same as ib v_i) i) same as ib v_i< i< \"inner <>\" from '<' to the matching '>' v_i> i> same as i< v_iB iB \"inner Block\" from [{ and ]} v_iW",
+        "documentation_links": []
+    },
+    {
+        "command": "o_v",
+        "explanation": "v force operator to work charwise o_V V force operator to work linewise o_CTRL-V CTRL-V force operator to work blockwise",
+        "documentation_links": []
+    },
+    {
+        "command": "v_CTRL-\\_CTRL-N",
+        "explanation": "CTRL-\\ CTRL-N stop Visual mode v_CTRL-\\_CTRL-G CTRL-\\ CTRL-G go to Normal mode v_CTRL-A CTRL-A 2 add N to",
+        "documentation_links": []
+    },
+    {
+        "command": "v_ab",
+        "explanation": "ab extend highlighted area with a () block v_ap ap extend highlighted area with a paragraph v_as as extend highlighted area with a",
+        "documentation_links": []
+    },
+    {
+        "command": "v_i)",
+        "explanation": "i) same as ib v_i< i< extend highlighted area with inner <> block v_i> i> same as i< v_iB iB extend highlighted area with inner {} block",
+        "documentation_links": []
+    },
+    {
+        "command": "v_iW",
+        "explanation": "iW extend highlighted area with \"inner WORD\" v_i[ i[ extend highlighted area with inner [] block v_i] i] same as i[ v_i` i` extend",
+        "documentation_links": []
+    },
+    {
+        "command": "v_x",
+        "explanation": "x 2 delete the highlighted area v_y y yank the highlighted area v_~ ~ 2 swap case for the highlighted area",
+        "documentation_links": []
+    },
+    {
+        "command": "c_CTRL-E",
+        "explanation": "CTRL-E cursor to end of command-line 'cedit' CTRL-F default value for 'cedit': opens the command-line window; otherwise not",
+        "documentation_links": []
+    },
+    {
+        "command": "c_<Left>",
+        "explanation": "<Left> cursor left c_<S-Left> <S-Left> cursor one word left c_<C-Left> <C-Left> cursor one word left c_<Right> <Right> cursor right",
+        "documentation_links": []
+    },
+    {
+        "command": "c_<S-Right>",
+        "explanation": "<S-Right> cursor one word right c_<C-Right> <C-Right> cursor one word right c_<Up> <Up> recall previous command-line from",
+        "documentation_links": []
+    },
+    {
+        "command": "c_<Home>",
+        "explanation": "<Home> cursor to start of command-line c_<End> <End> cursor to end of command-line c_<PageDown> <PageDown> same as",
+        "documentation_links": []
+    }
+]

@@ -1,0 +1,1177 @@
+[
+    {
+        "command": "1. Insert mode",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "char",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-@|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-A|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-C|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-D|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-E|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-F",
+        "explanation": "not used (but by default it's in 'cinkeys' to",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_j|",
+        "explanation": "line down, to column where inserting started",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_j|",
+        "explanation": "line down, to column where inserting started",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_j|",
+        "explanation": "line down, to column where inserting started",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_k|",
+        "explanation": "line up, to column where inserting started",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_k|",
+        "explanation": "line up, to column where inserting started",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_k|",
+        "explanation": "line up, to column where inserting started",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_u|",
+        "explanation": "start new undoable edit",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-G_U|",
+        "explanation": "don't break undo with next cursor movement",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<BS>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-H|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Tab>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-I|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<NL>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-J|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<CR>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-M|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-N|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-O|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-P|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-Q|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-S",
+        "explanation": "not used or used for terminal control flow",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-T|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-U|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-V|",
+        "explanation": "insert next non-digit literally",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-W|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X|",
+        "explanation": "enter CTRL-X sub mode, see |i_CTRL-X_index|",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-Y|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Esc>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-[|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Help>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Insert>|",
+        "explanation": "toggle Insert/Replace mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<LeftMouse>|",
+        "explanation": "cursor at mouse click",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<ScrollWheelDown>|",
+        "explanation": "move window three lines down",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<S-ScrollWheelDown>|",
+        "explanation": "move window one page down",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<ScrollWheelUp>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<S-ScrollWheelUp>|",
+        "explanation": "move window one page up",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<ScrollWheelLeft>|",
+        "explanation": "move window six columns left",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<S-ScrollWheelLeft>|",
+        "explanation": "move window one page left",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<ScrollWheelRight>|",
+        "explanation": "move window six columns right",
+        "documentation_links": []
+    },
+    {
+        "command": "commands in CTRL-X submode",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-D|",
+        "explanation": "complete defined identifiers",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-E|",
+        "explanation": "scroll up",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-F|",
+        "explanation": "complete file names",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-I|",
+        "explanation": "complete identifiers",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-K|",
+        "explanation": "complete identifiers from dictionary",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-L|",
+        "explanation": "complete whole lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-N|",
+        "explanation": "next completion",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-O|",
+        "explanation": "omni completion",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-P|",
+        "explanation": "previous completion",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-S|",
+        "explanation": "spelling suggestions",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-T|",
+        "explanation": "complete identifiers from thesaurus",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-Y|",
+        "explanation": "scroll down",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-U|",
+        "explanation": "complete with 'completefunc'",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-V|",
+        "explanation": "complete like in : command line",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-Z|",
+        "explanation": "stop completion, keeping the text as-is",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_CTRL-]|",
+        "explanation": "complete tags",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-X_s|",
+        "explanation": "CTRL-X s",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-L",
+        "explanation": "insert one character from the current match",
+        "documentation_links": []
+    },
+    {
+        "command": "<CR>",
+        "explanation": "insert currently selected match",
+        "documentation_links": []
+    },
+    {
+        "command": "<BS>",
+        "explanation": "delete one character and redo search",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-H",
+        "explanation": "same as <BS>",
+        "documentation_links": []
+    },
+    {
+        "command": "<Up>",
+        "explanation": "select the previous match",
+        "documentation_links": []
+    },
+    {
+        "command": "<Down>",
+        "explanation": "select the next match",
+        "documentation_links": []
+    },
+    {
+        "command": "other",
+        "explanation": "stop completion and insert the typed character",
+        "documentation_links": []
+    },
+    {
+        "command": "|:iabbrev|",
+        "explanation": "like \":abbrev\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:iabclear|",
+        "explanation": "like \":abclear\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:if|",
+        "explanation": ":if",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ijump|",
+        "explanation": "jump to definition of identifier",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ilist|",
+        "explanation": "list lines where identifier matches",
+        "documentation_links": []
+    },
+    {
+        "command": "|:imap|",
+        "explanation": ":im[ap]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:imapclear|",
+        "explanation": "like \":mapclear\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:imenu|",
+        "explanation": "add menu for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:inoremap|",
+        "explanation": "like \":noremap\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:inoreabbrev|",
+        "explanation": "like \":noreabbrev\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:inoremenu|",
+        "explanation": "like \":noremenu\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:intro|",
+        "explanation": "print the introductory message",
+        "documentation_links": []
+    },
+    {
+        "command": "|:isearch|",
+        "explanation": "list one line where identifier matches",
+        "documentation_links": []
+    },
+    {
+        "command": "|:isplit|",
+        "explanation": "split window and jump to definition of",
+        "documentation_links": []
+    },
+    {
+        "command": "|:iunmap|",
+        "explanation": "like \":unmap\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:iunabbrev|",
+        "explanation": "like \":unabbrev\" but for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:iunmenu|",
+        "explanation": "remove menu for Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:join|",
+        "explanation": ":j[oin]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:jumps|",
+        "explanation": "print the jump list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:k|",
+        "explanation": ":k",
+        "documentation_links": []
+    },
+    {
+        "command": "|:keepalt|",
+        "explanation": "following command keeps the alternate file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:keepmarks|",
+        "explanation": "following command keeps marks where they are",
+        "documentation_links": []
+    },
+    {
+        "command": "|:keepjumps|",
+        "explanation": "following command keeps jumplist and marks",
+        "documentation_links": []
+    },
+    {
+        "command": "|:keeppatterns|",
+        "explanation": "following command keeps search pattern history",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lNext|",
+        "explanation": "go to previous entry in location list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lNfile|",
+        "explanation": "go to last entry in previous file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:list|",
+        "explanation": ":l[ist]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:labove|",
+        "explanation": "go to location above current line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:laddexpr|",
+        "explanation": "add locations from expr",
+        "documentation_links": []
+    },
+    {
+        "command": "|:laddbuffer|",
+        "explanation": "add locations from buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:laddfile|",
+        "explanation": "add locations to current location list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lafter|",
+        "explanation": "go to location after current cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|:last|",
+        "explanation": ":la[st]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:language|",
+        "explanation": "set the language (locale)",
+        "documentation_links": []
+    },
+    {
+        "command": "|:later|",
+        "explanation": "go to newer change, redo",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lbefore|",
+        "explanation": "go to location before current cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lbelow|",
+        "explanation": "go to location below current line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lbottom|",
+        "explanation": "scroll to the bottom of the location window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lbuffer|",
+        "explanation": "parse locations and jump to first location",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lcd|",
+        "explanation": ":lc[d]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lchdir|",
+        "explanation": "change directory locally",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lclose|",
+        "explanation": "close location window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ldo|",
+        "explanation": ":ld[o]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lfdo|",
+        "explanation": ":lfd[o]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:left|",
+        "explanation": ":le[ft]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:leftabove|",
+        "explanation": "make split window appear left or above",
+        "documentation_links": []
+    },
+    {
+        "command": "|:let|",
+        "explanation": ":let",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lexpr|",
+        "explanation": "read locations from expr and jump to first",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lfile|",
+        "explanation": "read file with locations and jump to first",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lfirst|",
+        "explanation": "go to the specified location, default first one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lgetbuffer|",
+        "explanation": "get locations from buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lgetexpr|",
+        "explanation": "get locations from expr",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lgetfile|",
+        "explanation": "read file with locations",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lgrep|",
+        "explanation": "run 'grepprg' and jump to first match",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lgrepadd|",
+        "explanation": "like :grep, but append to current list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lhelpgrep|",
+        "explanation": "like \":helpgrep\" but uses location list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lhistory|",
+        "explanation": "list the location lists",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ll|",
+        "explanation": ":ll",
+        "documentation_links": []
+    },
+    {
+        "command": "|:llast|",
+        "explanation": "go to the specified location, default last one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:llist|",
+        "explanation": "list all locations",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lmake|",
+        "explanation": "execute external command 'makeprg' and parse",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lmap|",
+        "explanation": ":lm[ap]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lmapclear|",
+        "explanation": "like \":mapclear!\" but includes Lang-Arg mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lnext|",
+        "explanation": "go to next location",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lnewer|",
+        "explanation": "go to newer location list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lnfile|",
+        "explanation": "go to first location in next file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lnoremap|",
+        "explanation": "like \":noremap!\" but includes Lang-Arg mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:loadkeymap|",
+        "explanation": "load the following keymaps until EOF",
+        "documentation_links": []
+    },
+    {
+        "command": "|:loadview|",
+        "explanation": "load view for current window from a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lockmarks|",
+        "explanation": "following command keeps marks where they are",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lockvar|",
+        "explanation": "lock variables",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lolder|",
+        "explanation": "go to older location list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lopen|",
+        "explanation": "open location window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lprevious|",
+        "explanation": "go to previous location",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lpfile|",
+        "explanation": "go to last location in previous file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lrewind|",
+        "explanation": "go to the specified location, default first one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ls|",
+        "explanation": ":ls",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ltag|",
+        "explanation": ":lt[ag]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lunmap|",
+        "explanation": "like \":unmap!\" but includes Lang-Arg mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lua|",
+        "explanation": ":lua",
+        "documentation_links": []
+    },
+    {
+        "command": "|:luado|",
+        "explanation": "execute Lua command for each line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:luafile|",
+        "explanation": "execute |Lua| script file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lvimgrep|",
+        "explanation": "search for pattern in files",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lvimgrepadd|",
+        "explanation": "like :vimgrep, but append to current list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:lwindow|",
+        "explanation": "open or close location window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:move|",
+        "explanation": ":m[ove]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mark|",
+        "explanation": ":ma[rk]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:make|",
+        "explanation": ":mak[e]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:map|",
+        "explanation": ":map",
+        "documentation_links": []
+    },
+    {
+        "command": "|:startinsert|",
+        "explanation": "start Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:startreplace|",
+        "explanation": "start Replace mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:stopinsert|",
+        "explanation": "stop Insert mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:stjump|",
+        "explanation": "do \":tjump\" and split window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:stselect|",
+        "explanation": "do \":tselect\" and split window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sunhide|",
+        "explanation": "same as \":unhide\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sunmap|",
+        "explanation": "like \":unmap\" but for Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sunmenu|",
+        "explanation": "remove menu for Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:suspend|",
+        "explanation": "same as \":stop\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sview|",
+        "explanation": "split window and edit file read-only",
+        "documentation_links": []
+    },
+    {
+        "command": "|:swapname|",
+        "explanation": "show the name of the current swap file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:syntax|",
+        "explanation": "syntax highlighting",
+        "documentation_links": []
+    },
+    {
+        "command": "|:syntime|",
+        "explanation": "measure syntax highlighting speed",
+        "documentation_links": []
+    },
+    {
+        "command": "|:syncbind|",
+        "explanation": "sync scroll binding",
+        "documentation_links": []
+    },
+    {
+        "command": "|:t|",
+        "explanation": ":t",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tNext|",
+        "explanation": "jump to previous matching tag",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabNext|",
+        "explanation": "go to previous tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabclose|",
+        "explanation": "close current tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabdo|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabedit|",
+        "explanation": "edit a file in a new tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabfind|",
+        "explanation": "find file in 'path', edit it in a new tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabfirst|",
+        "explanation": "go to first tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tablast|",
+        "explanation": "go to last tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabmove|",
+        "explanation": "move tab page to other position",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabnew|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabnext|",
+        "explanation": "go to next tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabonly|",
+        "explanation": "close all tab pages except the current one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabprevious|",
+        "explanation": "go to previous tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabrewind|",
+        "explanation": "go to first tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tabs|",
+        "explanation": ":tabs",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tab|",
+        "explanation": ":tab",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tag|",
+        "explanation": ":ta[g]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tags|",
+        "explanation": ":tags",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tcd|",
+        "explanation": ":tc[d]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tchdir|",
+        "explanation": "change directory for tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|:terminal|",
+        "explanation": "open a terminal buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tfirst|",
+        "explanation": "jump to first matching tag",
+        "documentation_links": []
+    },
+    {
+        "command": "|:throw|",
+        "explanation": "throw an exception",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tjump|",
+        "explanation": "like \":tselect\", but jump directly when there",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tlast|",
+        "explanation": "jump to last matching tag",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tlmenu|",
+        "explanation": "add menu for |Terminal-mode|",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tlnoremenu|",
+        "explanation": "like \":noremenu\" but for |Terminal-mode|",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tlunmenu|",
+        "explanation": "remove menu for |Terminal-mode|",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tmapclear|",
+        "explanation": "remove all mappings for |Terminal-mode|",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tmap|",
+        "explanation": ":tma[p]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tmenu|",
+        "explanation": "define menu tooltip",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tnext|",
+        "explanation": "jump to next matching tag",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tnoremap|",
+        "explanation": "like \":noremap\" but for |Terminal-mode|",
+        "documentation_links": []
+    },
+    {
+        "command": "|:topleft|",
+        "explanation": "make split window appear at top or far left",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tprevious|",
+        "explanation": "jump to previous matching tag",
+        "documentation_links": []
+    },
+    {
+        "command": "|:trewind|",
+        "explanation": "jump to first matching tag",
+        "documentation_links": []
+    },
+    {
+        "command": "|:trust|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:try|",
+        "explanation": ":try",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tselect|",
+        "explanation": "list matching tags and select one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tunmap|",
+        "explanation": "like \":unmap\" but for |Terminal-mode|",
+        "documentation_links": []
+    },
+    {
+        "command": "|:tunmenu|",
+        "explanation": "remove menu tooltip",
+        "documentation_links": []
+    },
+    {
+        "command": "|:undo|",
+        "explanation": ":u[ndo]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:undojoin|",
+        "explanation": "join next change with previous undo block",
+        "documentation_links": []
+    },
+    {
+        "command": "|:undolist|",
+        "explanation": "list leafs of the undo tree",
+        "documentation_links": []
+    },
+    {
+        "command": "|:unabbreviate|",
+        "explanation": "remove abbreviation",
+        "documentation_links": []
+    },
+    {
+        "command": "|:unhide|",
+        "explanation": "open a window for each loaded file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:unlet|",
+        "explanation": "delete variable",
+        "documentation_links": []
+    },
+    {
+        "command": "|:unlockvar|",
+        "explanation": "unlock variables",
+        "documentation_links": []
+    },
+    {
+        "command": "|:unmap|",
+        "explanation": "remove mapping",
+        "documentation_links": []
+    },
+    {
+        "command": "|:unmenu|",
+        "explanation": "remove menu",
+        "documentation_links": []
+    },
+    {
+        "command": "|:unsilent|",
+        "explanation": "run a command not silently",
+        "documentation_links": []
+    },
+    {
+        "command": "|:update|",
+        "explanation": "write buffer if modified",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vglobal|",
+        "explanation": "execute commands for not matching lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|:version|",
+        "explanation": "print version number and other info",
+        "documentation_links": []
+    },
+    {
+        "command": "|:verbose|",
+        "explanation": "execute command with 'verbose' set",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vertical|",
+        "explanation": "make following command split vertically",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vimgrep|",
+        "explanation": "search for pattern in files",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vimgrepadd|",
+        "explanation": "like :vimgrep, but append to current list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:visual|",
+        "explanation": "same as \":edit\", but turns off \"Ex\" mode",
+        "documentation_links": []
+    }
+]

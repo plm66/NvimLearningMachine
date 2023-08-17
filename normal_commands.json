@@ -1,0 +1,3802 @@
+[
+    {
+        "command": "|i_CTRL-]|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-^|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_CTRL-_|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_0_CTRL-D|",
+        "explanation": "delete all indent in the current line",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_^_CTRL-D|",
+        "explanation": "delete all indent in the current line, restore",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Del>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Left>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<S-Left>|",
+        "explanation": "cursor one word left",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<C-Left>|",
+        "explanation": "cursor one word left",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Right>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<S-Right>|",
+        "explanation": "cursor one word right",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<C-Right>|",
+        "explanation": "cursor one word right",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Up>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<S-Up>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Down>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<S-Down>|",
+        "explanation": "same as <PageDown>",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<Home>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<C-Home>|",
+        "explanation": "cursor to start of file",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<End>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<C-End>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<PageUp>|",
+        "explanation": "one screenful backward",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<PageDown>|",
+        "explanation": "one screenful forward",
+        "documentation_links": []
+    },
+    {
+        "command": "|i_<F1>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "2. Normal mode",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "char",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-@",
+        "explanation": "not used",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-A|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-B|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-C|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-D|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-E|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-F|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-G|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<BS>|",
+        "explanation": "<BS>",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-H|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Tab>|",
+        "explanation": "<Tab>",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-I|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<NL>|",
+        "explanation": "<NL>",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-J|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-K",
+        "explanation": "not used",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-L|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<CR>|",
+        "explanation": "<CR>",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-M|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-N|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-O|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-P|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-Q",
+        "explanation": "not used, or used for terminal control flow",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-R|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-S",
+        "explanation": "not used, or used for terminal control flow",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-T|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-U|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-\\_CTRL-N|",
+        "explanation": "go to Normal mode (no-op)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-\\_CTRL-G|",
+        "explanation": "go to Normal mode (no-op)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-]|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-^|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-<Tab>|",
+        "explanation": "same as `g<Tab>` : go to last accessed tab",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-_",
+        "explanation": "not used",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Space>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|!|",
+        "explanation": "!{motion}{filter}",
+        "documentation_links": []
+    },
+    {
+        "command": "|!!|",
+        "explanation": "!!{filter}",
+        "documentation_links": []
+    },
+    {
+        "command": "|quote|",
+        "explanation": "\"{register}",
+        "documentation_links": []
+    },
+    {
+        "command": "|#|",
+        "explanation": "#",
+        "documentation_links": []
+    },
+    {
+        "command": "|$|",
+        "explanation": "$",
+        "documentation_links": []
+    },
+    {
+        "command": "|%|",
+        "explanation": "%",
+        "documentation_links": []
+    },
+    {
+        "command": "|N%|",
+        "explanation": "{count}%",
+        "documentation_links": []
+    },
+    {
+        "command": "|&|",
+        "explanation": "&",
+        "documentation_links": []
+    },
+    {
+        "command": "|'|",
+        "explanation": "'{a-zA-Z0-9}",
+        "documentation_links": []
+    },
+    {
+        "command": "|''|",
+        "explanation": "''",
+        "documentation_links": []
+    },
+    {
+        "command": "|'(|",
+        "explanation": "'(",
+        "documentation_links": []
+    },
+    {
+        "command": "|')|",
+        "explanation": "')",
+        "documentation_links": []
+    },
+    {
+        "command": "|'<|",
+        "explanation": "'<",
+        "documentation_links": []
+    },
+    {
+        "command": "|'>|",
+        "explanation": "'>",
+        "documentation_links": []
+    },
+    {
+        "command": "|'[|",
+        "explanation": "'[",
+        "documentation_links": []
+    },
+    {
+        "command": "|']|",
+        "explanation": "']",
+        "documentation_links": []
+    },
+    {
+        "command": "|'{|",
+        "explanation": "'{",
+        "documentation_links": []
+    },
+    {
+        "command": "|'}|",
+        "explanation": "'}",
+        "documentation_links": []
+    },
+    {
+        "command": "|(|",
+        "explanation": "(",
+        "documentation_links": []
+    },
+    {
+        "command": "|)|",
+        "explanation": ")",
+        "documentation_links": []
+    },
+    {
+        "command": "|star|",
+        "explanation": "*",
+        "documentation_links": []
+    },
+    {
+        "command": "|+|",
+        "explanation": "+",
+        "documentation_links": []
+    },
+    {
+        "command": "|,|",
+        "explanation": ",",
+        "documentation_links": []
+    },
+    {
+        "command": "|-|",
+        "explanation": "-",
+        "documentation_links": []
+    },
+    {
+        "command": "|.|",
+        "explanation": ".",
+        "documentation_links": []
+    },
+    {
+        "command": "|/|",
+        "explanation": "/{pattern}<CR>",
+        "documentation_links": []
+    },
+    {
+        "command": "|/<CR>|",
+        "explanation": "/<CR>",
+        "documentation_links": []
+    },
+    {
+        "command": "|0|",
+        "explanation": "0",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "1",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "2",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "3",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "4",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "5",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "6",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "7",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "8",
+        "documentation_links": []
+    },
+    {
+        "command": "|count|",
+        "explanation": "9",
+        "documentation_links": []
+    },
+    {
+        "command": "|:|",
+        "explanation": ":",
+        "documentation_links": []
+    },
+    {
+        "command": "|N:|",
+        "explanation": "{count}:",
+        "documentation_links": []
+    },
+    {
+        "command": "|;|",
+        "explanation": ";",
+        "documentation_links": []
+    },
+    {
+        "command": "|<|",
+        "explanation": "<{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|<<|",
+        "explanation": "<<",
+        "documentation_links": []
+    },
+    {
+        "command": "|=|",
+        "explanation": "={motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|==|",
+        "explanation": "==",
+        "documentation_links": []
+    },
+    {
+        "command": "|>|",
+        "explanation": ">{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|>>|",
+        "explanation": ">>",
+        "documentation_links": []
+    },
+    {
+        "command": "|?|",
+        "explanation": "?{pattern}<CR>",
+        "documentation_links": []
+    },
+    {
+        "command": "|?<CR>|",
+        "explanation": "?<CR>",
+        "documentation_links": []
+    },
+    {
+        "command": "|@|",
+        "explanation": "@{a-z}",
+        "documentation_links": []
+    },
+    {
+        "command": "|@:|",
+        "explanation": "@:",
+        "documentation_links": []
+    },
+    {
+        "command": "|@@|",
+        "explanation": "@@",
+        "documentation_links": []
+    },
+    {
+        "command": "|A|",
+        "explanation": "A",
+        "documentation_links": []
+    },
+    {
+        "command": "|B|",
+        "explanation": "B",
+        "documentation_links": []
+    },
+    {
+        "command": "|C|",
+        "explanation": "[\"x]C",
+        "documentation_links": []
+    },
+    {
+        "command": "|D|",
+        "explanation": "[\"x]D",
+        "documentation_links": []
+    },
+    {
+        "command": "|E|",
+        "explanation": "E",
+        "documentation_links": []
+    },
+    {
+        "command": "|F|",
+        "explanation": "F{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|G|",
+        "explanation": "G",
+        "documentation_links": []
+    },
+    {
+        "command": "|H|",
+        "explanation": "H",
+        "documentation_links": []
+    },
+    {
+        "command": "|I|",
+        "explanation": "I",
+        "documentation_links": []
+    },
+    {
+        "command": "|J|",
+        "explanation": "J",
+        "documentation_links": []
+    },
+    {
+        "command": "|K|",
+        "explanation": "K",
+        "documentation_links": []
+    },
+    {
+        "command": "|L|",
+        "explanation": "L",
+        "documentation_links": []
+    },
+    {
+        "command": "|M|",
+        "explanation": "M",
+        "documentation_links": []
+    },
+    {
+        "command": "|N|",
+        "explanation": "N",
+        "documentation_links": []
+    },
+    {
+        "command": "|O|",
+        "explanation": "O",
+        "documentation_links": []
+    },
+    {
+        "command": "|P|",
+        "explanation": "[\"x]P",
+        "documentation_links": []
+    },
+    {
+        "command": "|R|",
+        "explanation": "R",
+        "documentation_links": []
+    },
+    {
+        "command": "|S|",
+        "explanation": "[\"x]S",
+        "documentation_links": []
+    },
+    {
+        "command": "|T|",
+        "explanation": "T{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|U|",
+        "explanation": "U",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "command",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-B|",
+        "explanation": "same as \"CTRL-W b\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-C|",
+        "explanation": "same as \"CTRL-W c\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-D|",
+        "explanation": "same as \"CTRL-W d\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-F|",
+        "explanation": "same as \"CTRL-W f\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-H|",
+        "explanation": "same as \"CTRL-W h\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-I|",
+        "explanation": "same as \"CTRL-W i\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-J|",
+        "explanation": "same as \"CTRL-W j\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-K|",
+        "explanation": "same as \"CTRL-W k\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-L|",
+        "explanation": "same as \"CTRL-W l\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-N|",
+        "explanation": "same as \"CTRL-W n\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-O|",
+        "explanation": "same as \"CTRL-W o\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-P|",
+        "explanation": "same as \"CTRL-W p\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-Q|",
+        "explanation": "same as \"CTRL-W q\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-R|",
+        "explanation": "same as \"CTRL-W r\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-S|",
+        "explanation": "same as \"CTRL-W s\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-T|",
+        "explanation": "same as \"CTRL-W t\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-V|",
+        "explanation": "same as \"CTRL-W v\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-W|",
+        "explanation": "same as \"CTRL-W w\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-X|",
+        "explanation": "same as \"CTRL-W x\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-Z|",
+        "explanation": "same as \"CTRL-W z\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-]|",
+        "explanation": "same as \"CTRL-W ]\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-^|",
+        "explanation": "same as \"CTRL-W ^\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_CTRL-_|",
+        "explanation": "same as \"CTRL-W _\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_+|",
+        "explanation": "increase current window height N lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_-|",
+        "explanation": "decrease current window height N lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_<|",
+        "explanation": "decrease current window width N columns",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_=|",
+        "explanation": "make all windows the same height & width",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_>|",
+        "explanation": "increase current window width N columns",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_H|",
+        "explanation": "move current window to the far left",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_J|",
+        "explanation": "move current window to the very bottom",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_K|",
+        "explanation": "move current window to the very top",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_L|",
+        "explanation": "move current window to the far right",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_P|",
+        "explanation": "go to preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_R|",
+        "explanation": "rotate windows upwards N times",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_S|",
+        "explanation": "same as \"CTRL-W s\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_T|",
+        "explanation": "move current window to a new tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_W|",
+        "explanation": "go to N previous window (wrap around)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_]|",
+        "explanation": "split window and jump to tag under cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_^|",
+        "explanation": "split current window and edit alternate",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W__|",
+        "explanation": "set current window height to N (default:",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_b|",
+        "explanation": "go to bottom window",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_c|",
+        "explanation": "close current window (like |:close|)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_d|",
+        "explanation": "split window and jump to definition under",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_f|",
+        "explanation": "split window and edit file name under the",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_F|",
+        "explanation": "split window and edit file name under the",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_g]|",
+        "explanation": "split window and do |:tselect| for tag",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_g}|",
+        "explanation": "do a |:ptjump| to the tag under the cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_gf|",
+        "explanation": "edit file name under the cursor in a new",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_gF|",
+        "explanation": "edit file name under the cursor in a new",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_gt|",
+        "explanation": "same as `gt`: go to next tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_gT|",
+        "explanation": "same as `gT`: go to previous tab page",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_g<Tab>|",
+        "explanation": "same as |g<Tab>|: go to last accessed tab",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_h|",
+        "explanation": "go to Nth left window (stop at first window)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_i|",
+        "explanation": "split window and jump to declaration of",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_j|",
+        "explanation": "go N windows down (stop at last window)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_k|",
+        "explanation": "go N windows up (stop at first window)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_l|",
+        "explanation": "go to Nth right window (stop at last window)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_n|",
+        "explanation": "open new window, N lines high",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_o|",
+        "explanation": "close all but current window (like |:only|)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_p|",
+        "explanation": "go to previous (last accessed) window",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_q|",
+        "explanation": "quit current window (like |:quit|)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_r|",
+        "explanation": "rotate windows downwards N times",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_s|",
+        "explanation": "split current window in two parts, new",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_t|",
+        "explanation": "go to top window",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_v|",
+        "explanation": "split current window vertically, new window",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_w|",
+        "explanation": "go to N next window (wrap around)",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_x|",
+        "explanation": "exchange current window with window N",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_z|",
+        "explanation": "close preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_bar|",
+        "explanation": "set window width to N columns",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_}|",
+        "explanation": "show tag under cursor in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_<Down>|",
+        "explanation": "same as \"CTRL-W j\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_<Up>|",
+        "explanation": "same as \"CTRL-W k\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W_<Left>|",
+        "explanation": "same as \"CTRL-W h\"",
+        "documentation_links": []
+    },
+    {
+        "command": "2.3 Square bracket commands",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "char",
+        "documentation_links": []
+    },
+    {
+        "command": "|[_CTRL-D|",
+        "explanation": "jump to first #define found in current and",
+        "documentation_links": []
+    },
+    {
+        "command": "|[_CTRL-I|",
+        "explanation": "jump to first line in current and included",
+        "documentation_links": []
+    },
+    {
+        "command": "|[#|",
+        "explanation": "[#",
+        "documentation_links": []
+    },
+    {
+        "command": "|['|",
+        "explanation": "['",
+        "documentation_links": []
+    },
+    {
+        "command": "|[(|",
+        "explanation": "[(",
+        "documentation_links": []
+    },
+    {
+        "command": "|[star|",
+        "explanation": "[*",
+        "documentation_links": []
+    },
+    {
+        "command": "|[`|",
+        "explanation": "[`",
+        "documentation_links": []
+    },
+    {
+        "command": "|[/|",
+        "explanation": "[/",
+        "documentation_links": []
+    },
+    {
+        "command": "|[D|",
+        "explanation": "[D",
+        "documentation_links": []
+    },
+    {
+        "command": "|[I|",
+        "explanation": "[I",
+        "documentation_links": []
+    },
+    {
+        "command": "|[P|",
+        "explanation": "[P",
+        "documentation_links": []
+    },
+    {
+        "command": "|[[|",
+        "explanation": "[[",
+        "documentation_links": []
+    },
+    {
+        "command": "|[]|",
+        "explanation": "[]",
+        "documentation_links": []
+    },
+    {
+        "command": "|[c|",
+        "explanation": "[c",
+        "documentation_links": []
+    },
+    {
+        "command": "|[d|",
+        "explanation": "[d",
+        "documentation_links": []
+    },
+    {
+        "command": "|[f|",
+        "explanation": "[f",
+        "documentation_links": []
+    },
+    {
+        "command": "|[i|",
+        "explanation": "[i",
+        "documentation_links": []
+    },
+    {
+        "command": "|[m|",
+        "explanation": "[m",
+        "documentation_links": []
+    },
+    {
+        "command": "|[p|",
+        "explanation": "[p",
+        "documentation_links": []
+    },
+    {
+        "command": "|[s|",
+        "explanation": "[s",
+        "documentation_links": []
+    },
+    {
+        "command": "|[z|",
+        "explanation": "[z",
+        "documentation_links": []
+    },
+    {
+        "command": "|[{|",
+        "explanation": "[{",
+        "documentation_links": []
+    },
+    {
+        "command": "|]_CTRL-D|",
+        "explanation": "jump to first #define found in current and",
+        "documentation_links": []
+    },
+    {
+        "command": "|]_CTRL-I|",
+        "explanation": "jump to first line in current and included",
+        "documentation_links": []
+    },
+    {
+        "command": "|]#|",
+        "explanation": "]#",
+        "documentation_links": []
+    },
+    {
+        "command": "|]'|",
+        "explanation": "]'",
+        "documentation_links": []
+    },
+    {
+        "command": "|])|",
+        "explanation": "])",
+        "documentation_links": []
+    },
+    {
+        "command": "|]star|",
+        "explanation": "]*",
+        "documentation_links": []
+    },
+    {
+        "command": "|]`|",
+        "explanation": "]`",
+        "documentation_links": []
+    },
+    {
+        "command": "|]/|",
+        "explanation": "]/",
+        "documentation_links": []
+    },
+    {
+        "command": "|]D|",
+        "explanation": "]D",
+        "documentation_links": []
+    },
+    {
+        "command": "|]I|",
+        "explanation": "]I",
+        "documentation_links": []
+    },
+    {
+        "command": "|]P|",
+        "explanation": "]P",
+        "documentation_links": []
+    },
+    {
+        "command": "|][|",
+        "explanation": "][",
+        "documentation_links": []
+    },
+    {
+        "command": "|]]|",
+        "explanation": "]]",
+        "documentation_links": []
+    },
+    {
+        "command": "|]c|",
+        "explanation": "]c",
+        "documentation_links": []
+    },
+    {
+        "command": "|]d|",
+        "explanation": "]d",
+        "documentation_links": []
+    },
+    {
+        "command": "|]f|",
+        "explanation": "]f",
+        "documentation_links": []
+    },
+    {
+        "command": "|]i|",
+        "explanation": "]i",
+        "documentation_links": []
+    },
+    {
+        "command": "|]m|",
+        "explanation": "]m",
+        "documentation_links": []
+    },
+    {
+        "command": "|]p|",
+        "explanation": "]p",
+        "documentation_links": []
+    },
+    {
+        "command": "|]s|",
+        "explanation": "]s",
+        "documentation_links": []
+    },
+    {
+        "command": "|]z|",
+        "explanation": "]z",
+        "documentation_links": []
+    },
+    {
+        "command": "|]}|",
+        "explanation": "]}",
+        "documentation_links": []
+    },
+    {
+        "command": "2.4 Commands starting with 'g'",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "char",
+        "documentation_links": []
+    },
+    {
+        "command": "g_CTRL-A",
+        "explanation": "dump a memory profile",
+        "documentation_links": []
+    },
+    {
+        "command": "|g_CTRL-G|",
+        "explanation": "show information about current cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|g_CTRL-H|",
+        "explanation": "start Select block mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|g_CTRL-]|",
+        "explanation": "|:tjump| to the tag under the cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|g#|",
+        "explanation": "g#",
+        "documentation_links": []
+    },
+    {
+        "command": "|g$|",
+        "explanation": "g$",
+        "documentation_links": []
+    },
+    {
+        "command": "|g&|",
+        "explanation": "g&",
+        "documentation_links": []
+    },
+    {
+        "command": "|g'|",
+        "explanation": "g'{mark}",
+        "documentation_links": []
+    },
+    {
+        "command": "|g`|",
+        "explanation": "g`{mark}",
+        "documentation_links": []
+    },
+    {
+        "command": "|gstar|",
+        "explanation": "g*",
+        "documentation_links": []
+    },
+    {
+        "command": "|g+|",
+        "explanation": "g+",
+        "documentation_links": []
+    },
+    {
+        "command": "|g,|",
+        "explanation": "g,",
+        "documentation_links": []
+    },
+    {
+        "command": "|g-|",
+        "explanation": "g-",
+        "documentation_links": []
+    },
+    {
+        "command": "|g0|",
+        "explanation": "g0",
+        "documentation_links": []
+    },
+    {
+        "command": "|g8|",
+        "explanation": "g8",
+        "documentation_links": []
+    },
+    {
+        "command": "|g;|",
+        "explanation": "g;",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<|",
+        "explanation": "g<",
+        "documentation_links": []
+    },
+    {
+        "command": "|g?|",
+        "explanation": "g?",
+        "documentation_links": []
+    },
+    {
+        "command": "|g?g?|",
+        "explanation": "g??",
+        "documentation_links": []
+    },
+    {
+        "command": "|g?g?|",
+        "explanation": "g?g?",
+        "documentation_links": []
+    },
+    {
+        "command": "|gD|",
+        "explanation": "gD",
+        "documentation_links": []
+    },
+    {
+        "command": "|gE|",
+        "explanation": "gE",
+        "documentation_links": []
+    },
+    {
+        "command": "|gH|",
+        "explanation": "gH",
+        "documentation_links": []
+    },
+    {
+        "command": "|gI|",
+        "explanation": "gI",
+        "documentation_links": []
+    },
+    {
+        "command": "|gJ|",
+        "explanation": "gJ",
+        "documentation_links": []
+    },
+    {
+        "command": "|gN|",
+        "explanation": "gN",
+        "documentation_links": []
+    },
+    {
+        "command": "|gP|",
+        "explanation": "[\"x]gP",
+        "documentation_links": []
+    },
+    {
+        "command": "|gQ|",
+        "explanation": "gQ",
+        "documentation_links": []
+    },
+    {
+        "command": "|gR|",
+        "explanation": "gR",
+        "documentation_links": []
+    },
+    {
+        "command": "|gT|",
+        "explanation": "gT",
+        "documentation_links": []
+    },
+    {
+        "command": "|gU|",
+        "explanation": "gU{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|gV|",
+        "explanation": "gV",
+        "documentation_links": []
+    },
+    {
+        "command": "|g]|",
+        "explanation": "g]",
+        "documentation_links": []
+    },
+    {
+        "command": "|g^|",
+        "explanation": "g^",
+        "documentation_links": []
+    },
+    {
+        "command": "|g_|",
+        "explanation": "g_",
+        "documentation_links": []
+    },
+    {
+        "command": "|ga|",
+        "explanation": "ga",
+        "documentation_links": []
+    },
+    {
+        "command": "|gd|",
+        "explanation": "gd",
+        "documentation_links": []
+    },
+    {
+        "command": "|ge|",
+        "explanation": "ge",
+        "documentation_links": []
+    },
+    {
+        "command": "|gf|",
+        "explanation": "gf",
+        "documentation_links": []
+    },
+    {
+        "command": "|gF|",
+        "explanation": "gF",
+        "documentation_links": []
+    },
+    {
+        "command": "|gg|",
+        "explanation": "gg",
+        "documentation_links": []
+    },
+    {
+        "command": "|gh|",
+        "explanation": "gh",
+        "documentation_links": []
+    },
+    {
+        "command": "|gi|",
+        "explanation": "gi",
+        "documentation_links": []
+    },
+    {
+        "command": "|gj|",
+        "explanation": "gj",
+        "documentation_links": []
+    },
+    {
+        "command": "|gk|",
+        "explanation": "gk",
+        "documentation_links": []
+    },
+    {
+        "command": "|gm|",
+        "explanation": "gm",
+        "documentation_links": []
+    },
+    {
+        "command": "|gM|",
+        "explanation": "gM",
+        "documentation_links": []
+    },
+    {
+        "command": "|gn|",
+        "explanation": "gn",
+        "documentation_links": []
+    },
+    {
+        "command": "|go|",
+        "explanation": "go",
+        "documentation_links": []
+    },
+    {
+        "command": "|gp|",
+        "explanation": "[\"x]gp",
+        "documentation_links": []
+    },
+    {
+        "command": "|gq|",
+        "explanation": "gq{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|gr|",
+        "explanation": "gr{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|gs|",
+        "explanation": "gs",
+        "documentation_links": []
+    },
+    {
+        "command": "|gt|",
+        "explanation": "gt",
+        "documentation_links": []
+    },
+    {
+        "command": "|gu|",
+        "explanation": "gu{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|gv|",
+        "explanation": "gv",
+        "documentation_links": []
+    },
+    {
+        "command": "|gw|",
+        "explanation": "gw{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|netrw-gx|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|g@|",
+        "explanation": "g@{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|g~|",
+        "explanation": "g~{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<Down>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<End>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<Home>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<LeftMouse>|",
+        "explanation": "same as <C-LeftMouse>",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<RightMouse>|",
+        "explanation": "same as <C-RightMouse>",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<Tab>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|g<Up>|",
+        "explanation": "g<Up>",
+        "documentation_links": []
+    },
+    {
+        "command": "2.5 Commands starting with 'z'",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "char",
+        "documentation_links": []
+    },
+    {
+        "command": "|z<CR>|",
+        "explanation": "z<CR>",
+        "documentation_links": []
+    },
+    {
+        "command": "|zN<CR>|",
+        "explanation": "redraw, make window {height} lines high",
+        "documentation_links": []
+    },
+    {
+        "command": "|z+|",
+        "explanation": "z+",
+        "documentation_links": []
+    },
+    {
+        "command": "|z-|",
+        "explanation": "z-",
+        "documentation_links": []
+    },
+    {
+        "command": "|z.|",
+        "explanation": "z.",
+        "documentation_links": []
+    },
+    {
+        "command": "|z=|",
+        "explanation": "z=",
+        "documentation_links": []
+    },
+    {
+        "command": "|zA|",
+        "explanation": "zA",
+        "documentation_links": []
+    },
+    {
+        "command": "|zC|",
+        "explanation": "zC",
+        "documentation_links": []
+    },
+    {
+        "command": "|zD|",
+        "explanation": "zD",
+        "documentation_links": []
+    },
+    {
+        "command": "|zE|",
+        "explanation": "zE",
+        "documentation_links": []
+    },
+    {
+        "command": "|zF|",
+        "explanation": "zF",
+        "documentation_links": []
+    },
+    {
+        "command": "|zG|",
+        "explanation": "zG",
+        "documentation_links": []
+    },
+    {
+        "command": "|zH|",
+        "explanation": "zH",
+        "documentation_links": []
+    },
+    {
+        "command": "|zL|",
+        "explanation": "zL",
+        "documentation_links": []
+    },
+    {
+        "command": "|zM|",
+        "explanation": "zM",
+        "documentation_links": []
+    },
+    {
+        "command": "|zN|",
+        "explanation": "zN",
+        "documentation_links": []
+    },
+    {
+        "command": "|zO|",
+        "explanation": "zO",
+        "documentation_links": []
+    },
+    {
+        "command": "|zR|",
+        "explanation": "zR",
+        "documentation_links": []
+    },
+    {
+        "command": "|zW|",
+        "explanation": "zW",
+        "documentation_links": []
+    },
+    {
+        "command": "|zX|",
+        "explanation": "zX",
+        "documentation_links": []
+    },
+    {
+        "command": "|z^|",
+        "explanation": "z^",
+        "documentation_links": []
+    },
+    {
+        "command": "|za|",
+        "explanation": "za",
+        "documentation_links": []
+    },
+    {
+        "command": "|zb|",
+        "explanation": "zb",
+        "documentation_links": []
+    },
+    {
+        "command": "|zc|",
+        "explanation": "zc",
+        "documentation_links": []
+    },
+    {
+        "command": "|zd|",
+        "explanation": "zd",
+        "documentation_links": []
+    },
+    {
+        "command": "|ze|",
+        "explanation": "ze",
+        "documentation_links": []
+    },
+    {
+        "command": "|zf|",
+        "explanation": "zf{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|zg|",
+        "explanation": "zg",
+        "documentation_links": []
+    },
+    {
+        "command": "|zh|",
+        "explanation": "zh",
+        "documentation_links": []
+    },
+    {
+        "command": "|zi|",
+        "explanation": "zi",
+        "documentation_links": []
+    },
+    {
+        "command": "|zj|",
+        "explanation": "zj",
+        "documentation_links": []
+    },
+    {
+        "command": "|zk|",
+        "explanation": "zk",
+        "documentation_links": []
+    },
+    {
+        "command": "|zl|",
+        "explanation": "zl",
+        "documentation_links": []
+    },
+    {
+        "command": "|zm|",
+        "explanation": "zm",
+        "documentation_links": []
+    },
+    {
+        "command": "|zn|",
+        "explanation": "zn",
+        "documentation_links": []
+    },
+    {
+        "command": "|zo|",
+        "explanation": "zo",
+        "documentation_links": []
+    },
+    {
+        "command": "|zp|",
+        "explanation": "zp",
+        "documentation_links": []
+    },
+    {
+        "command": "|zP|",
+        "explanation": "zP",
+        "documentation_links": []
+    },
+    {
+        "command": "|zr|",
+        "explanation": "zr",
+        "documentation_links": []
+    },
+    {
+        "command": "|zs|",
+        "explanation": "zs",
+        "documentation_links": []
+    },
+    {
+        "command": "|zt|",
+        "explanation": "zt",
+        "documentation_links": []
+    },
+    {
+        "command": "|zuw|",
+        "explanation": "zuw",
+        "documentation_links": []
+    },
+    {
+        "command": "|zug|",
+        "explanation": "zug",
+        "documentation_links": []
+    },
+    {
+        "command": "|zuW|",
+        "explanation": "zuW",
+        "documentation_links": []
+    },
+    {
+        "command": "|zuG|",
+        "explanation": "zuG",
+        "documentation_links": []
+    },
+    {
+        "command": "|zv|",
+        "explanation": "zv",
+        "documentation_links": []
+    },
+    {
+        "command": "|zw|",
+        "explanation": "zw",
+        "documentation_links": []
+    },
+    {
+        "command": "|zx|",
+        "explanation": "zx",
+        "documentation_links": []
+    },
+    {
+        "command": "|zy|",
+        "explanation": "zy",
+        "documentation_links": []
+    },
+    {
+        "command": "|zz|",
+        "explanation": "zz",
+        "documentation_links": []
+    },
+    {
+        "command": "|z<Left>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|z<Right>|",
+        "explanation": "same as \"zl\"",
+        "documentation_links": []
+    },
+    {
+        "command": "2.6 Operator-pending mode",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "char",
+        "documentation_links": []
+    },
+    {
+        "command": "|o_v|",
+        "explanation": "v",
+        "documentation_links": []
+    },
+    {
+        "command": "|o_V|",
+        "explanation": "V",
+        "documentation_links": []
+    },
+    {
+        "command": "|o_CTRL-V|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-A|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-]|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-^|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-_|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Del>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Left>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<S-Left>|",
+        "explanation": "cursor one word left",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<C-Left>|",
+        "explanation": "cursor one word left",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Right>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<S-Right>|",
+        "explanation": "cursor one word right",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<C-Right>|",
+        "explanation": "cursor one word right",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Up>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<S-Up>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Down>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<S-Down>|",
+        "explanation": "recall next command-line from history",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Home>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<End>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<PageDown>|",
+        "explanation": "same as <S-Down>",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<PageUp>|",
+        "explanation": "same as <S-Up>",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Insert>|",
+        "explanation": "toggle insert/overstrike mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<LeftMouse>|",
+        "explanation": "cursor at mouse click",
+        "documentation_links": []
+    },
+    {
+        "command": "5. Terminal mode",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "You found it, Arthur!",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "6. EX commands",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:|",
+        "explanation": ":",
+        "documentation_links": []
+    },
+    {
+        "command": "|:range|",
+        "explanation": "go to last line in {range}",
+        "documentation_links": []
+    },
+    {
+        "command": "|:!|",
+        "explanation": ":!",
+        "documentation_links": []
+    },
+    {
+        "command": "|:!!|",
+        "explanation": ":!!",
+        "documentation_links": []
+    },
+    {
+        "command": "|:#|",
+        "explanation": ":#",
+        "documentation_links": []
+    },
+    {
+        "command": "|:&|",
+        "explanation": ":&",
+        "documentation_links": []
+    },
+    {
+        "command": "|:star|",
+        "explanation": ":*",
+        "documentation_links": []
+    },
+    {
+        "command": "|:<|",
+        "explanation": ":<",
+        "documentation_links": []
+    },
+    {
+        "command": "|:=|",
+        "explanation": ":=",
+        "documentation_links": []
+    },
+    {
+        "command": "|:>|",
+        "explanation": ":>",
+        "documentation_links": []
+    },
+    {
+        "command": "|:@|",
+        "explanation": ":@",
+        "documentation_links": []
+    },
+    {
+        "command": "|:@@|",
+        "explanation": ":@@",
+        "documentation_links": []
+    },
+    {
+        "command": "|:Next|",
+        "explanation": ":N[ext]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:append|",
+        "explanation": "append text",
+        "documentation_links": []
+    },
+    {
+        "command": "|:abbreviate|",
+        "explanation": "enter abbreviation",
+        "documentation_links": []
+    },
+    {
+        "command": "|:abclear|",
+        "explanation": "remove all abbreviations",
+        "documentation_links": []
+    },
+    {
+        "command": "|:aboveleft|",
+        "explanation": "make split window appear left or above",
+        "documentation_links": []
+    },
+    {
+        "command": "|:all|",
+        "explanation": ":al[l]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:amenu|",
+        "explanation": "enter new menu item for all modes",
+        "documentation_links": []
+    },
+    {
+        "command": "|:anoremenu|",
+        "explanation": "enter a new menu for all modes that will not",
+        "documentation_links": []
+    },
+    {
+        "command": "|:args|",
+        "explanation": ":ar[gs]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:argadd|",
+        "explanation": "add items to the argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:argdedupe|",
+        "explanation": "remove duplicates from the argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:argdelete|",
+        "explanation": "delete items from the argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:argedit|",
+        "explanation": "add item to the argument list and edit it",
+        "documentation_links": []
+    },
+    {
+        "command": "|:argdo|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:argglobal|",
+        "explanation": "define the global argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:arglocal|",
+        "explanation": "define a local argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:argument|",
+        "explanation": "go to specific file in the argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ascii|",
+        "explanation": "print ascii value of character under the cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|:autocmd|",
+        "explanation": "enter or show autocommands",
+        "documentation_links": []
+    },
+    {
+        "command": "|:augroup|",
+        "explanation": "select the autocommand group to use",
+        "documentation_links": []
+    },
+    {
+        "command": "|:aunmenu|",
+        "explanation": "remove menu for all modes",
+        "documentation_links": []
+    },
+    {
+        "command": "|:buffer|",
+        "explanation": "go to specific buffer in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bNext|",
+        "explanation": "go to previous buffer in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ball|",
+        "explanation": ":ba[ll]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:badd|",
+        "explanation": ":bad[d]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:balt|",
+        "explanation": ":balt",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bdelete|",
+        "explanation": "remove a buffer from the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:behave|",
+        "explanation": "set mouse and selection behavior",
+        "documentation_links": []
+    },
+    {
+        "command": "|:belowright|",
+        "explanation": "make split window appear right or below",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bfirst|",
+        "explanation": "go to first buffer in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:blast|",
+        "explanation": "go to last buffer in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bmodified|",
+        "explanation": "go to next buffer in the buffer list that has",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bnext|",
+        "explanation": "go to next buffer in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:botright|",
+        "explanation": "make split window appear at bottom or far right",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bprevious|",
+        "explanation": "go to previous buffer in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:brewind|",
+        "explanation": "go to first buffer in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:break|",
+        "explanation": "break out of while loop",
+        "documentation_links": []
+    },
+    {
+        "command": "|:breakadd|",
+        "explanation": "add a debugger breakpoint",
+        "documentation_links": []
+    },
+    {
+        "command": "|:breakdel|",
+        "explanation": "delete a debugger breakpoint",
+        "documentation_links": []
+    },
+    {
+        "command": "|:breaklist|",
+        "explanation": "list debugger breakpoints",
+        "documentation_links": []
+    },
+    {
+        "command": "|:browse|",
+        "explanation": "use file selection dialog",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bufdo|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:buffers|",
+        "explanation": "list all files in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bunload|",
+        "explanation": "unload a specific buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:bwipeout|",
+        "explanation": "really delete a buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:change|",
+        "explanation": "replace a line or series of lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cNext|",
+        "explanation": "go to previous error",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cNfile|",
+        "explanation": "go to last error in previous file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cabbrev|",
+        "explanation": "like \":abbreviate\" but for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cabclear|",
+        "explanation": "clear all abbreviations for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cabove|",
+        "explanation": "go to error above current line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:caddbuffer|",
+        "explanation": "add errors from buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:caddexpr|",
+        "explanation": "add errors from expr",
+        "documentation_links": []
+    },
+    {
+        "command": "|:caddfile|",
+        "explanation": "add error message to current quickfix list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cafter|",
+        "explanation": "go to error after current cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|:call|",
+        "explanation": ":cal[l]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:catch|",
+        "explanation": "part of a :try command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cbefore|",
+        "explanation": "go to error before current cursor",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cbelow|",
+        "explanation": "go to error below current line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cbottom|",
+        "explanation": "scroll to the bottom of the quickfix window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cbuffer|",
+        "explanation": "parse error messages and jump to first error",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cc|",
+        "explanation": ":cc",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cclose|",
+        "explanation": "close quickfix window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cd|",
+        "explanation": ":cd",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cdo|",
+        "explanation": ":cdo",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cfdo|",
+        "explanation": ":cfd[o]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:center|",
+        "explanation": "format lines at the center",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cexpr|",
+        "explanation": "read errors from expr and jump to first",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cfile|",
+        "explanation": "read file with error messages and jump to first",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cfirst|",
+        "explanation": "go to the specified error, default first one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cgetbuffer|",
+        "explanation": "get errors from buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cgetexpr|",
+        "explanation": "get errors from expr",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cgetfile|",
+        "explanation": "read file with error messages",
+        "documentation_links": []
+    },
+    {
+        "command": "|:changes|",
+        "explanation": "print the change list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:chdir|",
+        "explanation": "change directory",
+        "documentation_links": []
+    },
+    {
+        "command": "|:checkhealth|",
+        "explanation": "run healthchecks",
+        "documentation_links": []
+    },
+    {
+        "command": "|:checkpath|",
+        "explanation": "list included files",
+        "documentation_links": []
+    },
+    {
+        "command": "|:checktime|",
+        "explanation": "check timestamp of loaded buffers",
+        "documentation_links": []
+    },
+    {
+        "command": "|:chistory|",
+        "explanation": "list the error lists",
+        "documentation_links": []
+    },
+    {
+        "command": "|:clast|",
+        "explanation": "go to the specified error, default last one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:clearjumps|",
+        "explanation": "clear the jump list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:clist|",
+        "explanation": "list all errors",
+        "documentation_links": []
+    },
+    {
+        "command": "|:close|",
+        "explanation": "close current window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cmap|",
+        "explanation": ":cm[ap]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cmapclear|",
+        "explanation": "clear all mappings for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cmenu|",
+        "explanation": "add menu for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cnext|",
+        "explanation": "go to next error",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cnewer|",
+        "explanation": "go to newer error list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cnfile|",
+        "explanation": "go to first error in next file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cnoremap|",
+        "explanation": "like \":noremap\" but for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cnoreabbrev|",
+        "explanation": "like \":noreabbrev\" but for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cnoremenu|",
+        "explanation": "like \":noremenu\" but for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:copy|",
+        "explanation": ":co[py]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:colder|",
+        "explanation": "go to older error list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:colorscheme|",
+        "explanation": "load a specific color scheme",
+        "documentation_links": []
+    },
+    {
+        "command": "|:command|",
+        "explanation": "create user-defined command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:comclear|",
+        "explanation": "clear all user-defined commands",
+        "documentation_links": []
+    },
+    {
+        "command": "|:compiler|",
+        "explanation": "do settings for a specific compiler",
+        "documentation_links": []
+    },
+    {
+        "command": "|:continue|",
+        "explanation": "go back to :while",
+        "documentation_links": []
+    },
+    {
+        "command": "|:confirm|",
+        "explanation": "prompt user when confirmation required",
+        "documentation_links": []
+    },
+    {
+        "command": "|:const|",
+        "explanation": "create a variable as a constant",
+        "documentation_links": []
+    },
+    {
+        "command": "|:copen|",
+        "explanation": "open quickfix window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cprevious|",
+        "explanation": "go to previous error",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cpfile|",
+        "explanation": "go to last error in previous file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cquit|",
+        "explanation": "quit Vim with an error code",
+        "documentation_links": []
+    },
+    {
+        "command": "|:crewind|",
+        "explanation": "go to the specified error, default first one",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cunmap|",
+        "explanation": "like \":unmap\" but for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cunabbrev|",
+        "explanation": "like \":unabbrev\" but for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cunmenu|",
+        "explanation": "remove menu for Command-line mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:cwindow|",
+        "explanation": "open or close quickfix window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:delete|",
+        "explanation": "delete lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|:debug|",
+        "explanation": "run a command in debugging mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:debuggreedy|",
+        "explanation": "read debug mode commands from normal input",
+        "documentation_links": []
+    },
+    {
+        "command": "|:delcommand|",
+        "explanation": "delete user-defined command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:delfunction|",
+        "explanation": "delete a user function",
+        "documentation_links": []
+    },
+    {
+        "command": "|:delmarks|",
+        "explanation": "delete marks",
+        "documentation_links": []
+    },
+    {
+        "command": "|:diffupdate|",
+        "explanation": "update 'diff' buffers",
+        "documentation_links": []
+    },
+    {
+        "command": "|:diffget|",
+        "explanation": "remove differences in current buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:diffoff|",
+        "explanation": "switch off diff mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:diffpatch|",
+        "explanation": "apply a patch and show differences",
+        "documentation_links": []
+    },
+    {
+        "command": "|:diffput|",
+        "explanation": "remove differences in other buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:diffsplit|",
+        "explanation": "show differences with another file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:diffthis|",
+        "explanation": "make current window a diff window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:digraphs|",
+        "explanation": "show or enter digraphs",
+        "documentation_links": []
+    },
+    {
+        "command": "|:display|",
+        "explanation": "display registers",
+        "documentation_links": []
+    },
+    {
+        "command": "|:djump|",
+        "explanation": "jump to #define",
+        "documentation_links": []
+    },
+    {
+        "command": "|:dl|",
+        "explanation": ":dl",
+        "documentation_links": []
+    },
+    {
+        "command": "|:dlist|",
+        "explanation": "list #defines",
+        "documentation_links": []
+    },
+    {
+        "command": "|:doautocmd|",
+        "explanation": "apply autocommands to current buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:doautoall|",
+        "explanation": "apply autocommands for all loaded buffers",
+        "documentation_links": []
+    },
+    {
+        "command": "|:dp|",
+        "explanation": ":d[elete]p",
+        "documentation_links": []
+    },
+    {
+        "command": "|:drop|",
+        "explanation": ":dr[op]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:dsearch|",
+        "explanation": "list one #define",
+        "documentation_links": []
+    },
+    {
+        "command": "|:dsplit|",
+        "explanation": "split window and jump to #define",
+        "documentation_links": []
+    },
+    {
+        "command": "|:edit|",
+        "explanation": ":e[dit]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:earlier|",
+        "explanation": "go to older change, undo",
+        "documentation_links": []
+    },
+    {
+        "command": "|:echo|",
+        "explanation": ":ec[ho]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:echoerr|",
+        "explanation": "like :echo, show like an error and use history",
+        "documentation_links": []
+    },
+    {
+        "command": "|:echohl|",
+        "explanation": "set highlighting for echo commands",
+        "documentation_links": []
+    },
+    {
+        "command": "|:echomsg|",
+        "explanation": "same as :echo, put message in history",
+        "documentation_links": []
+    },
+    {
+        "command": "|:echon|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:else|",
+        "explanation": ":el[se]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:elseif|",
+        "explanation": "part of an :if command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:emenu|",
+        "explanation": "execute a menu by name",
+        "documentation_links": []
+    },
+    {
+        "command": "|:endif|",
+        "explanation": "end previous :if",
+        "documentation_links": []
+    },
+    {
+        "command": "|:endfor|",
+        "explanation": "end previous :for",
+        "documentation_links": []
+    },
+    {
+        "command": "|:endfunction|",
+        "explanation": "end of a user function started with :function",
+        "documentation_links": []
+    },
+    {
+        "command": "|:endtry|",
+        "explanation": "end previous :try",
+        "documentation_links": []
+    },
+    {
+        "command": "|:endwhile|",
+        "explanation": "end previous :while",
+        "documentation_links": []
+    },
+    {
+        "command": "|:enew|",
+        "explanation": ":ene[w]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:eval|",
+        "explanation": ":ev[al]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ex|",
+        "explanation": ":ex",
+        "documentation_links": []
+    },
+    {
+        "command": "|:execute|",
+        "explanation": "execute result of expressions",
+        "documentation_links": []
+    },
+    {
+        "command": "|:exit|",
+        "explanation": ":exi[t]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:exusage|",
+        "explanation": "overview of Ex commands",
+        "documentation_links": []
+    },
+    {
+        "command": "|:file|",
+        "explanation": ":f[ile]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:files|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:filetype|",
+        "explanation": "switch file type detection on/off",
+        "documentation_links": []
+    },
+    {
+        "command": "|:filter|",
+        "explanation": "filter output of following command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:find|",
+        "explanation": ":fin[d]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:finally|",
+        "explanation": "part of a :try command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:finish|",
+        "explanation": "quit sourcing a Vim script",
+        "documentation_links": []
+    },
+    {
+        "command": "|:first|",
+        "explanation": "go to the first file in the argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:fold|",
+        "explanation": ":fo[ld]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:foldclose|",
+        "explanation": "close folds",
+        "documentation_links": []
+    },
+    {
+        "command": "|:folddoopen|",
+        "explanation": "execute command on lines not in a closed fold",
+        "documentation_links": []
+    },
+    {
+        "command": "|:folddoclosed|",
+        "explanation": "execute command on lines in a closed fold",
+        "documentation_links": []
+    },
+    {
+        "command": "|:foldopen|",
+        "explanation": "open folds",
+        "documentation_links": []
+    },
+    {
+        "command": "|:for|",
+        "explanation": ":for",
+        "documentation_links": []
+    },
+    {
+        "command": "|:function|",
+        "explanation": "define a user function",
+        "documentation_links": []
+    },
+    {
+        "command": "|:global|",
+        "explanation": "execute commands for matching lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|:goto|",
+        "explanation": ":go[to]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:grep|",
+        "explanation": ":gr[ep]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:grepadd|",
+        "explanation": "like :grep, but append to current list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:gui|",
+        "explanation": ":gu[i]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:gvim|",
+        "explanation": ":gv[im]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:help|",
+        "explanation": ":h[elp]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:helpclose|",
+        "explanation": "close one help window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:helpgrep|",
+        "explanation": "like \":grep\" but searches help files",
+        "documentation_links": []
+    },
+    {
+        "command": "|:helptags|",
+        "explanation": "generate help tags for a directory",
+        "documentation_links": []
+    },
+    {
+        "command": "|:highlight|",
+        "explanation": "specify highlighting methods",
+        "documentation_links": []
+    },
+    {
+        "command": "|:hide|",
+        "explanation": ":hid[e]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:history|",
+        "explanation": "print a history list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:horizontal|",
+        "explanation": "following window command work horizontally",
+        "documentation_links": []
+    },
+    {
+        "command": "|:insert|",
+        "explanation": "insert text",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nmap|",
+        "explanation": ":nm[ap]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nmapclear|",
+        "explanation": "clear all mappings for Normal mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nmenu|",
+        "explanation": "add menu for Normal mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nnoremap|",
+        "explanation": "like \":noremap\" but for Normal mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nnoremenu|",
+        "explanation": "like \":noremenu\" but for Normal mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:noautocmd|",
+        "explanation": "following commands don't trigger autocommands",
+        "documentation_links": []
+    },
+    {
+        "command": "|:noremap|",
+        "explanation": "enter a mapping that will not be remapped",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nohlsearch|",
+        "explanation": "suspend 'hlsearch' highlighting",
+        "documentation_links": []
+    },
+    {
+        "command": "|:noreabbrev|",
+        "explanation": "enter an abbreviation that will not be",
+        "documentation_links": []
+    },
+    {
+        "command": "|:noremenu|",
+        "explanation": "enter a menu that will not be remapped",
+        "documentation_links": []
+    },
+    {
+        "command": "|:normal|",
+        "explanation": "execute Normal mode commands",
+        "documentation_links": []
+    },
+    {
+        "command": "|:noswapfile|",
+        "explanation": "following commands don't create a swap file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:number|",
+        "explanation": "print lines with line number",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nunmap|",
+        "explanation": "like \":unmap\" but for Normal mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:nunmenu|",
+        "explanation": "remove menu for Normal mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:oldfiles|",
+        "explanation": "list files that have marks in the |shada| file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:omap|",
+        "explanation": ":om[ap]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:omapclear|",
+        "explanation": "remove all mappings for Operator-pending mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:omenu|",
+        "explanation": "add menu for Operator-pending mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:only|",
+        "explanation": ":on[ly]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:onoremap|",
+        "explanation": "like \":noremap\" but for Operator-pending mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:onoremenu|",
+        "explanation": "like \":noremenu\" but for Operator-pending mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:options|",
+        "explanation": "open the options-window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ounmap|",
+        "explanation": "like \":unmap\" but for Operator-pending mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ounmenu|",
+        "explanation": "remove menu for Operator-pending mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ownsyntax|",
+        "explanation": "set new local syntax highlight for this window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:packadd|",
+        "explanation": "add a plugin from 'packpath'",
+        "documentation_links": []
+    },
+    {
+        "command": "|:packloadall|",
+        "explanation": "load all packages under 'packpath'",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pclose|",
+        "explanation": "close preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pedit|",
+        "explanation": "edit file in the preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:perl|",
+        "explanation": ":pe[rl]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:perldo|",
+        "explanation": "execute perl command for each line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:perlfile|",
+        "explanation": "execute perl script file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:print|",
+        "explanation": "print lines",
+        "documentation_links": []
+    },
+    {
+        "command": "|:profdel|",
+        "explanation": "stop profiling a function or script",
+        "documentation_links": []
+    },
+    {
+        "command": "|:profile|",
+        "explanation": "profiling functions and scripts",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pop|",
+        "explanation": ":po[p]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:popup|",
+        "explanation": "popup a menu by name",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ppop|",
+        "explanation": ":pp[op]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:preserve|",
+        "explanation": "write all text to swap file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:previous|",
+        "explanation": "go to previous file in argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:psearch|",
+        "explanation": "like \":ijump\" but shows match in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptag|",
+        "explanation": ":pt[ag]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptNext|",
+        "explanation": "|:tNext| in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptfirst|",
+        "explanation": "|:trewind| in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptjump|",
+        "explanation": "|:tjump| and show tag in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptlast|",
+        "explanation": "|:tlast| in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptnext|",
+        "explanation": "|:tnext| in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptprevious|",
+        "explanation": "|:tprevious| in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptrewind|",
+        "explanation": "|:trewind| in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ptselect|",
+        "explanation": "|:tselect| and show tag in preview window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:put|",
+        "explanation": ":pu[t]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pwd|",
+        "explanation": ":pw[d]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:py3|",
+        "explanation": ":py3",
+        "documentation_links": []
+    },
+    {
+        "command": "|:python3|",
+        "explanation": "same as :py3",
+        "documentation_links": []
+    },
+    {
+        "command": "|:py3do|",
+        "explanation": "execute Python 3 command for each line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:py3file|",
+        "explanation": "execute Python 3 script file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:python|",
+        "explanation": "execute Python command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pydo|",
+        "explanation": ":pyd[o]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pyfile|",
+        "explanation": "execute Python script file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pyx|",
+        "explanation": ":pyx",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pythonx|",
+        "explanation": "same as :pyx",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pyxdo|",
+        "explanation": "execute |python_x| command for each line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:pyxfile|",
+        "explanation": "execute |python_x| script file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:quit|",
+        "explanation": ":q[uit]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:quitall|",
+        "explanation": "quit Vim",
+        "documentation_links": []
+    },
+    {
+        "command": "|:qall|",
+        "explanation": ":qa[ll]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:read|",
+        "explanation": ":r[ead]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:recover|",
+        "explanation": "recover a file from a swap file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:redo|",
+        "explanation": ":red[o]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:redir|",
+        "explanation": "redirect messages to a file or register",
+        "documentation_links": []
+    },
+    {
+        "command": "|:redraw|",
+        "explanation": "force a redraw of the display",
+        "documentation_links": []
+    },
+    {
+        "command": "|:redrawstatus|",
+        "explanation": "force a redraw of the status line(s) and",
+        "documentation_links": []
+    },
+    {
+        "command": "|:registers|",
+        "explanation": "display the contents of registers",
+        "documentation_links": []
+    },
+    {
+        "command": "|:resize|",
+        "explanation": "change current window height",
+        "documentation_links": []
+    },
+    {
+        "command": "|:retab|",
+        "explanation": "change tab size",
+        "documentation_links": []
+    },
+    {
+        "command": "|:return|",
+        "explanation": "return from a user function",
+        "documentation_links": []
+    },
+    {
+        "command": "|:rewind|",
+        "explanation": "go to the first file in the argument list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:right|",
+        "explanation": "right align text",
+        "documentation_links": []
+    },
+    {
+        "command": "|:rightbelow|",
+        "explanation": "make split window appear right or below",
+        "documentation_links": []
+    },
+    {
+        "command": "|:rshada|",
+        "explanation": "read from |shada| file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:ruby|",
+        "explanation": ":rub[y]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:rubydo|",
+        "explanation": "execute Ruby command for each line",
+        "documentation_links": []
+    },
+    {
+        "command": "|:rubyfile|",
+        "explanation": "execute Ruby script file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:rundo|",
+        "explanation": "read undo information from a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:runtime|",
+        "explanation": "source vim scripts in 'runtimepath'",
+        "documentation_links": []
+    },
+    {
+        "command": "|:substitute|",
+        "explanation": "find and replace text",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sNext|",
+        "explanation": "split window and go to previous file in",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sandbox|",
+        "explanation": "execute a command in the sandbox",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sargument|",
+        "explanation": "split window and go to specific file in",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sall|",
+        "explanation": ":sal[l]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:saveas|",
+        "explanation": "save file under another name.",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sbuffer|",
+        "explanation": "split window and go to specific file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sbNext|",
+        "explanation": "split window and go to previous file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sball|",
+        "explanation": "open a window for each file in the buffer list",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sbfirst|",
+        "explanation": "split window and go to first file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sblast|",
+        "explanation": "split window and go to last file in buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sbmodified|",
+        "explanation": "split window and go to modified file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sbnext|",
+        "explanation": "split window and go to next file in the buffer",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sbprevious|",
+        "explanation": "split window and go to previous file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sbrewind|",
+        "explanation": "split window and go to first file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:scriptnames|",
+        "explanation": "list names of all sourced Vim scripts",
+        "documentation_links": []
+    },
+    {
+        "command": "|:set|",
+        "explanation": ":se[t]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:setfiletype|",
+        "explanation": "set 'filetype', unless it was set already",
+        "documentation_links": []
+    },
+    {
+        "command": "|:setglobal|",
+        "explanation": "show global values of options",
+        "documentation_links": []
+    },
+    {
+        "command": "|:setlocal|",
+        "explanation": "show or set options locally",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sfind|",
+        "explanation": "split current window and edit file in 'path'",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sfirst|",
+        "explanation": "split window and go to first file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sign|",
+        "explanation": ":sig[n]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:silent|",
+        "explanation": "run a command silently",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sleep|",
+        "explanation": "do nothing for a few seconds",
+        "documentation_links": []
+    },
+    {
+        "command": "|:slast|",
+        "explanation": "split window and go to last file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:smagic|",
+        "explanation": ":substitute with 'magic'",
+        "documentation_links": []
+    },
+    {
+        "command": "|:smap|",
+        "explanation": ":smap",
+        "documentation_links": []
+    },
+    {
+        "command": "|:smapclear|",
+        "explanation": "remove all mappings for Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:smenu|",
+        "explanation": "add menu for Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:snext|",
+        "explanation": "split window and go to next file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:snomagic|",
+        "explanation": ":substitute with 'nomagic'",
+        "documentation_links": []
+    },
+    {
+        "command": "|:snoremap|",
+        "explanation": "like \":noremap\" but for Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:snoremenu|",
+        "explanation": "like \":noremenu\" but for Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sort|",
+        "explanation": ":sor[t]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:source|",
+        "explanation": "read Vim or Ex commands from a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:spelldump|",
+        "explanation": "split window and fill with all correct words",
+        "documentation_links": []
+    },
+    {
+        "command": "|:spellgood|",
+        "explanation": "add good word for spelling",
+        "documentation_links": []
+    },
+    {
+        "command": "|:spellinfo|",
+        "explanation": "show info about loaded spell files",
+        "documentation_links": []
+    },
+    {
+        "command": "|:spellrare|",
+        "explanation": "add rare word for spelling",
+        "documentation_links": []
+    },
+    {
+        "command": "|:spellrepall|",
+        "explanation": "replace all bad words like last |z=|",
+        "documentation_links": []
+    },
+    {
+        "command": "|:spellundo|",
+        "explanation": "remove good or bad word",
+        "documentation_links": []
+    },
+    {
+        "command": "|:spellwrong|",
+        "explanation": "add spelling mistake",
+        "documentation_links": []
+    },
+    {
+        "command": "|:split|",
+        "explanation": "split current window",
+        "documentation_links": []
+    },
+    {
+        "command": "|:sprevious|",
+        "explanation": "split window and go to previous file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:srewind|",
+        "explanation": "split window and go to first file in the",
+        "documentation_links": []
+    },
+    {
+        "command": "|:stop|",
+        "explanation": ":st[op]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:stag|",
+        "explanation": ":sta[g]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:viusage|",
+        "explanation": "overview of Normal mode commands",
+        "documentation_links": []
+    },
+    {
+        "command": "|:view|",
+        "explanation": ":vie[w]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vmap|",
+        "explanation": ":vm[ap]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vmapclear|",
+        "explanation": "remove all mappings for Visual+Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vmenu|",
+        "explanation": "add menu for Visual+Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vnew|",
+        "explanation": ":vne[w]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vnoremap|",
+        "explanation": "like \":noremap\" but for Visual+Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vnoremenu|",
+        "explanation": "like \":noremenu\" but for Visual+Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vsplit|",
+        "explanation": "split current window vertically",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vunmap|",
+        "explanation": "like \":unmap\" but for Visual+Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:vunmenu|",
+        "explanation": "remove menu for Visual+Select mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:windo|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:write|",
+        "explanation": "write to a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wNext|",
+        "explanation": "write to a file and go to previous file in",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wall|",
+        "explanation": ":wa[ll]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:while|",
+        "explanation": "execute loop for as long as condition met",
+        "documentation_links": []
+    },
+    {
+        "command": "|:winsize|",
+        "explanation": "get or set window size (obsolete)",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wincmd|",
+        "explanation": "execute a Window (CTRL-W) command",
+        "documentation_links": []
+    },
+    {
+        "command": "|:winpos|",
+        "explanation": "get or set window position",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wnext|",
+        "explanation": "write to a file and go to next file in",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wprevious|",
+        "explanation": "write to a file and go to previous file in",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wq|",
+        "explanation": ":wq",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wqall|",
+        "explanation": "write all changed buffers and quit Vim",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wshada|",
+        "explanation": "write to ShaDa file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:wundo|",
+        "explanation": "write undo information to a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xit|",
+        "explanation": ":x[it]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xall|",
+        "explanation": ":xa[ll]",
+        "documentation_links": []
+    }
+]

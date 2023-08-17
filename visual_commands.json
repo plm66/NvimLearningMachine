@@ -1,0 +1,1417 @@
+[
+    {
+        "command": "|CTRL-V|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-W|",
+        "explanation": "window commands, see |CTRL-W|",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-X|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-Y|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|CTRL-Z|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|V|",
+        "explanation": "V",
+        "documentation_links": []
+    },
+    {
+        "command": "|W|",
+        "explanation": "W",
+        "documentation_links": []
+    },
+    {
+        "command": "|X|",
+        "explanation": "[\"x]X",
+        "documentation_links": []
+    },
+    {
+        "command": "|Y|",
+        "explanation": "[\"x]Y",
+        "documentation_links": []
+    },
+    {
+        "command": "|ZZ|",
+        "explanation": "ZZ",
+        "documentation_links": []
+    },
+    {
+        "command": "|ZQ|",
+        "explanation": "ZQ",
+        "documentation_links": []
+    },
+    {
+        "command": "|[|",
+        "explanation": "[{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "\\",
+        "explanation": "not used",
+        "documentation_links": []
+    },
+    {
+        "command": "|]|",
+        "explanation": "]{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|^|",
+        "explanation": "^",
+        "documentation_links": []
+    },
+    {
+        "command": "|_|",
+        "explanation": "_",
+        "documentation_links": []
+    },
+    {
+        "command": "|`|",
+        "explanation": "`{a-zA-Z0-9}",
+        "documentation_links": []
+    },
+    {
+        "command": "|`(|",
+        "explanation": "`(",
+        "documentation_links": []
+    },
+    {
+        "command": "|`)|",
+        "explanation": "`)",
+        "documentation_links": []
+    },
+    {
+        "command": "|`<|",
+        "explanation": "`<",
+        "documentation_links": []
+    },
+    {
+        "command": "|`>|",
+        "explanation": "`>",
+        "documentation_links": []
+    },
+    {
+        "command": "|`[|",
+        "explanation": "`[",
+        "documentation_links": []
+    },
+    {
+        "command": "|`]|",
+        "explanation": "`]",
+        "documentation_links": []
+    },
+    {
+        "command": "|``|",
+        "explanation": "``",
+        "documentation_links": []
+    },
+    {
+        "command": "|`{|",
+        "explanation": "`{",
+        "documentation_links": []
+    },
+    {
+        "command": "|`}|",
+        "explanation": "`}",
+        "documentation_links": []
+    },
+    {
+        "command": "|a|",
+        "explanation": "a",
+        "documentation_links": []
+    },
+    {
+        "command": "|b|",
+        "explanation": "b",
+        "documentation_links": []
+    },
+    {
+        "command": "|c|",
+        "explanation": "[\"x]c{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|cc|",
+        "explanation": "[\"x]cc",
+        "documentation_links": []
+    },
+    {
+        "command": "|d|",
+        "explanation": "[\"x]d{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|dd|",
+        "explanation": "[\"x]dd",
+        "documentation_links": []
+    },
+    {
+        "command": "|do|",
+        "explanation": "do",
+        "documentation_links": []
+    },
+    {
+        "command": "|dp|",
+        "explanation": "dp",
+        "documentation_links": []
+    },
+    {
+        "command": "|e|",
+        "explanation": "e",
+        "documentation_links": []
+    },
+    {
+        "command": "|f|",
+        "explanation": "f{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|g|",
+        "explanation": "g{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|h|",
+        "explanation": "h",
+        "documentation_links": []
+    },
+    {
+        "command": "|i|",
+        "explanation": "i",
+        "documentation_links": []
+    },
+    {
+        "command": "|j|",
+        "explanation": "j",
+        "documentation_links": []
+    },
+    {
+        "command": "|k|",
+        "explanation": "k",
+        "documentation_links": []
+    },
+    {
+        "command": "|l|",
+        "explanation": "l",
+        "documentation_links": []
+    },
+    {
+        "command": "|m|",
+        "explanation": "m{A-Za-z}",
+        "documentation_links": []
+    },
+    {
+        "command": "|n|",
+        "explanation": "n",
+        "documentation_links": []
+    },
+    {
+        "command": "|o|",
+        "explanation": "o",
+        "documentation_links": []
+    },
+    {
+        "command": "|p|",
+        "explanation": "[\"x]p",
+        "documentation_links": []
+    },
+    {
+        "command": "|q|",
+        "explanation": "q{0-9a-zA-Z\"}",
+        "documentation_links": []
+    },
+    {
+        "command": "|q|",
+        "explanation": "q",
+        "documentation_links": []
+    },
+    {
+        "command": "|Q|",
+        "explanation": "Q",
+        "documentation_links": []
+    },
+    {
+        "command": "|q:|",
+        "explanation": "q:",
+        "documentation_links": []
+    },
+    {
+        "command": "|q/|",
+        "explanation": "q/",
+        "documentation_links": []
+    },
+    {
+        "command": "|q?|",
+        "explanation": "q?",
+        "documentation_links": []
+    },
+    {
+        "command": "|r|",
+        "explanation": "r{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|s|",
+        "explanation": "[\"x]s",
+        "documentation_links": []
+    },
+    {
+        "command": "|t|",
+        "explanation": "t{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|u|",
+        "explanation": "u",
+        "documentation_links": []
+    },
+    {
+        "command": "|v|",
+        "explanation": "v",
+        "documentation_links": []
+    },
+    {
+        "command": "|w|",
+        "explanation": "w",
+        "documentation_links": []
+    },
+    {
+        "command": "|x|",
+        "explanation": "[\"x]x",
+        "documentation_links": []
+    },
+    {
+        "command": "|y|",
+        "explanation": "[\"x]y{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|yy|",
+        "explanation": "[\"x]yy",
+        "documentation_links": []
+    },
+    {
+        "command": "|z|",
+        "explanation": "z{char}",
+        "documentation_links": []
+    },
+    {
+        "command": "|{|",
+        "explanation": "{",
+        "documentation_links": []
+    },
+    {
+        "command": "|bar|",
+        "explanation": "|",
+        "documentation_links": []
+    },
+    {
+        "command": "|}|",
+        "explanation": "}",
+        "documentation_links": []
+    },
+    {
+        "command": "|~|",
+        "explanation": "~",
+        "documentation_links": []
+    },
+    {
+        "command": "|~|",
+        "explanation": "~{motion}",
+        "documentation_links": []
+    },
+    {
+        "command": "|<C-End>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<C-Home>|",
+        "explanation": "1  same as \"gg\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|<C-Left>|",
+        "explanation": "1  same as \"b\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|<C-LeftMouse>|",
+        "explanation": "\":ta\" to the keyword at the mouse click",
+        "documentation_links": []
+    },
+    {
+        "command": "|<C-Right>|",
+        "explanation": "1  same as \"w\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|<C-Tab>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Del>|",
+        "explanation": "[\"x]<Del>",
+        "documentation_links": []
+    },
+    {
+        "command": "|N<Del>|",
+        "explanation": "remove the last digit from {count}",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Down>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<End>|",
+        "explanation": "<End>",
+        "documentation_links": []
+    },
+    {
+        "command": "|<F1>|",
+        "explanation": "<F1>",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Help>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Home>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Insert>|",
+        "explanation": "2  same as \"i\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Left>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<LeftMouse>|",
+        "explanation": "1  move cursor to the mouse click position",
+        "documentation_links": []
+    },
+    {
+        "command": "|<MiddleMouse>|",
+        "explanation": "2  same as \"gP\" at the mouse click position",
+        "documentation_links": []
+    },
+    {
+        "command": "|<PageDown>|",
+        "explanation": "same as CTRL-F",
+        "documentation_links": []
+    },
+    {
+        "command": "|<PageUp>|",
+        "explanation": "same as CTRL-B",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Right>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<RightMouse>|",
+        "explanation": "start Visual mode, move cursor to the mouse",
+        "documentation_links": []
+    },
+    {
+        "command": "|<S-Down>|",
+        "explanation": "1  same as CTRL-F",
+        "documentation_links": []
+    },
+    {
+        "command": "|<S-Left>|",
+        "explanation": "1  same as \"b\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|<S-LeftMouse>|",
+        "explanation": "same as \"*\" at the mouse click position",
+        "documentation_links": []
+    },
+    {
+        "command": "|<S-Right>|",
+        "explanation": "1  same as \"w\"",
+        "documentation_links": []
+    },
+    {
+        "command": "|<S-Up>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Undo>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|<Up>|",
+        "explanation": "<Up>",
+        "documentation_links": []
+    },
+    {
+        "command": "*<ScrollWheelDown>*",
+        "explanation": "move window three lines down",
+        "documentation_links": []
+    },
+    {
+        "command": "*<S-ScrollWheelDown>*",
+        "explanation": "move window one page down",
+        "documentation_links": []
+    },
+    {
+        "command": "*<ScrollWheelUp>*",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "*<S-ScrollWheelUp>*",
+        "explanation": "move window one page up",
+        "documentation_links": []
+    },
+    {
+        "command": "*<ScrollWheelLeft>*",
+        "explanation": "move window six columns left",
+        "documentation_links": []
+    },
+    {
+        "command": "*<S-ScrollWheelLeft>*",
+        "explanation": "move window one page left",
+        "documentation_links": []
+    },
+    {
+        "command": "*<ScrollWheelRight>*",
+        "explanation": "move window six columns right",
+        "documentation_links": []
+    },
+    {
+        "command": "*<S-ScrollWheelRight>*",
+        "explanation": "move window one page right",
+        "documentation_links": []
+    },
+    {
+        "command": "2.1 Text objects",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "command",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aquote|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a'|",
+        "explanation": "a'",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a(|",
+        "explanation": "a(",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a)|",
+        "explanation": "a)",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a<|",
+        "explanation": "a<",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a>|",
+        "explanation": "a>",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aB|",
+        "explanation": "aB",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aW|",
+        "explanation": "aW",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a[|",
+        "explanation": "a[",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a]|",
+        "explanation": "a]",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a`|",
+        "explanation": "a`",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ab|",
+        "explanation": "ab",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ap|",
+        "explanation": "ap",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_as|",
+        "explanation": "as",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_at|",
+        "explanation": "at",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aw|",
+        "explanation": "aw",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a{|",
+        "explanation": "a{",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a}|",
+        "explanation": "a}",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iquote|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i'|",
+        "explanation": "i'",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i(|",
+        "explanation": "i(",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i)|",
+        "explanation": "i)",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i<|",
+        "explanation": "i<",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i>|",
+        "explanation": "i>",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iB|",
+        "explanation": "iB",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iW|",
+        "explanation": "iW",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i[|",
+        "explanation": "i[",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i]|",
+        "explanation": "i]",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i`|",
+        "explanation": "i`",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ib|",
+        "explanation": "ib",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ip|",
+        "explanation": "ip",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_is|",
+        "explanation": "is",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_it|",
+        "explanation": "it",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iw|",
+        "explanation": "iw",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i{|",
+        "explanation": "i{",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i}|",
+        "explanation": "i}",
+        "documentation_links": []
+    },
+    {
+        "command": "2.2 Window commands",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "3. Visual mode",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "command",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-C|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-G|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_<BS>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-H|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-O|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-V|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-X|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_<Esc>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_CTRL-]|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_!|",
+        "explanation": "!{filter}",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_:|",
+        "explanation": ":",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_<|",
+        "explanation": "<",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_=|",
+        "explanation": "=",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_>|",
+        "explanation": ">",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_b_A|",
+        "explanation": "A",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_C|",
+        "explanation": "C",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_D|",
+        "explanation": "D",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_b_I|",
+        "explanation": "I",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_J|",
+        "explanation": "J",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_K|",
+        "explanation": "K",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_O|",
+        "explanation": "O",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_P|",
+        "explanation": "P",
+        "documentation_links": []
+    },
+    {
+        "command": "Q",
+        "explanation": "does not start Ex mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_R|",
+        "explanation": "R",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_S|",
+        "explanation": "S",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_U|",
+        "explanation": "U",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_V|",
+        "explanation": "V",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_X|",
+        "explanation": "X",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_Y|",
+        "explanation": "Y",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aquote|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a'|",
+        "explanation": "a'",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a(|",
+        "explanation": "a(",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a)|",
+        "explanation": "a)",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a<|",
+        "explanation": "a<",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a>|",
+        "explanation": "a>",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aB|",
+        "explanation": "aB",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aW|",
+        "explanation": "aW",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a[|",
+        "explanation": "a[",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a]|",
+        "explanation": "a]",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a`|",
+        "explanation": "a`",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ab|",
+        "explanation": "ab",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ap|",
+        "explanation": "ap",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_as|",
+        "explanation": "as",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_at|",
+        "explanation": "at",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_aw|",
+        "explanation": "aw",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a{|",
+        "explanation": "a{",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_a}|",
+        "explanation": "a}",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_c|",
+        "explanation": "c",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_d|",
+        "explanation": "d",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_g_CTRL-A|",
+        "explanation": "2  add N to number in highlighted text",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_g_CTRL-X|",
+        "explanation": "2  subtract N from number in highlighted text",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_gJ|",
+        "explanation": "gJ",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_gq|",
+        "explanation": "gq",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_gv|",
+        "explanation": "gv",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iquote|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i'|",
+        "explanation": "i'",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i(|",
+        "explanation": "i(",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i)|",
+        "explanation": "i)",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i<|",
+        "explanation": "i<",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i>|",
+        "explanation": "i>",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iB|",
+        "explanation": "iB",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iW|",
+        "explanation": "iW",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i[|",
+        "explanation": "i[",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i]|",
+        "explanation": "i]",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i`|",
+        "explanation": "i`",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ib|",
+        "explanation": "ib",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_ip|",
+        "explanation": "ip",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_is|",
+        "explanation": "is",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_it|",
+        "explanation": "it",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_iw|",
+        "explanation": "iw",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i{|",
+        "explanation": "i{",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_i}|",
+        "explanation": "i}",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_o|",
+        "explanation": "o",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_p|",
+        "explanation": "p",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_r|",
+        "explanation": "r",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_s|",
+        "explanation": "s",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_u|",
+        "explanation": "u",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_v|",
+        "explanation": "v",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_x|",
+        "explanation": "x",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_y|",
+        "explanation": "y",
+        "documentation_links": []
+    },
+    {
+        "command": "|v_~|",
+        "explanation": "~",
+        "documentation_links": []
+    },
+    {
+        "command": "4. Command-line editing",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "tag",
+        "explanation": "command",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-@",
+        "explanation": "not used",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-A|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-B|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-C|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-D|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-E|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|'cedit'|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-G|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<BS>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-H|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Tab>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<S-Tab>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_wildchar|",
+        "explanation": "Do completion on the pattern in front of the",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-I|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<NL>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-J|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-L|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<CR>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-M|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-N|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-O",
+        "explanation": "not used",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-P|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-Q|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-S",
+        "explanation": "not used, or used for terminal control flow",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-T|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-U|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-V|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-W|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-X",
+        "explanation": "not used (reserved for completion)",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-Y",
+        "explanation": "copy (yank) modeless selection",
+        "documentation_links": []
+    },
+    {
+        "command": "CTRL-Z",
+        "explanation": "not used (reserved for suspend)",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_<Esc>|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|c_CTRL-[|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mapclear|",
+        "explanation": "clear all mappings for Normal and Visual mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:marks|",
+        "explanation": "",
+        "documentation_links": []
+    },
+    {
+        "command": "|:match|",
+        "explanation": "define a match to highlight",
+        "documentation_links": []
+    },
+    {
+        "command": "|:menu|",
+        "explanation": ":me[nu]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:messages|",
+        "explanation": "view previously displayed messages",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mkexrc|",
+        "explanation": "write current mappings and settings to a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mksession|",
+        "explanation": "write session info to a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mkspell|",
+        "explanation": "produce .spl spell file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mkvimrc|",
+        "explanation": "write current mappings and settings to a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mkview|",
+        "explanation": "write view of current window to a file",
+        "documentation_links": []
+    },
+    {
+        "command": "|:mode|",
+        "explanation": ":mod[e]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:next|",
+        "explanation": ":n[ext]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:new|",
+        "explanation": ":new",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xmapclear|",
+        "explanation": "remove all mappings for Visual mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xmap|",
+        "explanation": ":xm[ap]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xmenu|",
+        "explanation": "add menu for Visual mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xnoremap|",
+        "explanation": "like \":noremap\" but for Visual mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xnoremenu|",
+        "explanation": "like \":noremenu\" but for Visual mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xunmap|",
+        "explanation": "like \":unmap\" but for Visual mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:xunmenu|",
+        "explanation": "remove menu for Visual mode",
+        "documentation_links": []
+    },
+    {
+        "command": "|:yank|",
+        "explanation": ":y[ank]",
+        "documentation_links": []
+    },
+    {
+        "command": "|:z|",
+        "explanation": ":z",
+        "documentation_links": []
+    },
+    {
+        "command": "|:~|",
+        "explanation": ":~",
+        "documentation_links": []
+    }
+]

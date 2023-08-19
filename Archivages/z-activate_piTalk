@@ -1,0 +1,21 @@
+import os
+
+def activate():
+    os.environ['CONDA_PREFIX'] = '/Users/mac/miniconda3/envs/Lmachine '
+    subprocess.run(["activate", "--no-input"], shell=True)
+    return True
+    if os.environ.get("ACTIVATED") == "True": 
+        return 
+    else: # get list of installed packages
+        installed_packages = conda.get_installed()
+        if conda.get_installed(installed_package) == True:
+        else:
+            pip install -y -U "${installed_package}"
+
+
+
+
+
+if name == "main":
+
+activate_env()
